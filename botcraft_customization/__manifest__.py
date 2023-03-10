@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'BotCraft Subscription PriceList',
+    'name': 'Botcraft Customization',
     'version': '16.0.0.2',
-    'summary': 'BotCraft Subscription PriceList',
+    'summary': 'Botcraft Customization',
     'sequence': 0,
     'description': """
-    Used to set PriceList with subscription inside Sale order
+    Botcraft Customization
     """,
     'author': "Reliution",
     'website': "https://www.reliution.com",
@@ -22,4 +22,5 @@
     'installable': True,
     'application': True,
     'auto_install': False,
+    'license': 'LGPL-3',
 }
